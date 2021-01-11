@@ -1,0 +1,15 @@
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\GoogleSearch-with-selenium.exe.config
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\GoogleSearch-with-selenium.exe
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\GoogleSearch-with-selenium.pdb
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\WebDriver.dll
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\WebDriver.Support.dll
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\WebDriver.xml
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\bin\Debug\WebDriver.Support.xml
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.csprojAssemblyReference.cache
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch_with_selenium.Form1.resources
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch_with_selenium.Properties.Resources.resources
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.csproj.GenerateResource.cache
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.csproj.CopyComplete
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.exe
+D:\GitHub\C#\GoogleSearch-with-selenium\GoogleSearch-with-selenium\obj\Debug\GoogleSearch-with-selenium.pdb
